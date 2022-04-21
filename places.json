@@ -1,0 +1,53 @@
+[{
+  "id": 1,
+  "title": "New York City Trip",
+  "description": "First time in the Big Apple! Looking forward to seeing the Empire State building, Statue of Liberty, Central Park and Madison Square Garden.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/New_york_times_square-terabass.jpg",
+  "address": "",
+  "city": "New York City",
+  "state": "NY",
+  "geolocation": [
+    40.7128,
+    -74.006
+  ]
+},
+{
+  "id": 2,
+  "title": "Los Angeles Trip",
+  "description": "Coachella, Wooooh!!!!",
+  "image": "https://www.gousa.in/sites/default/files/styles/hero_l/public/images/hero_media_image/2017-01/Getty_515070156_EDITORIALONLY_LosAngeles_HollywoodBlvd_Web72DPI_0.jpg?itok=lst_2_5d",
+  "address": "",
+  "city": "Los Angeles",
+  "state": "CA",
+  "geolocation": [
+    34.0522,
+    -118.2437
+  ]
+},
+{
+  "id": 3,
+  "title": "Zion National Park",
+  "description": "Hiking trip for Big Zion National park, can't wait for Angel's Landing",
+  "image": "https://i.natgeofe.com/n/6eff514d-9275-49e4-9c97-537877315f7d/01-zion-reference.jpg?w=636&h=434",
+  "address": "Zion National Park, Utah.",
+  "city": "Zion National Park",
+  "state": "UT",
+  "geolocation": [
+    37.2982,
+    -113.0263
+  ]
+},
+{
+  "title": "Salt Lake City",
+  "description": "Going to salt lake city to see the nasty salt water lake",
+  "image": "https://media.cntraveler.com/photos/603fe43952a3e73ea42b22a4/16:9/w_2560%2Cc_limit/01-velo-slc-header-downtown-slc.jpg",
+  "address": "100 S Temple",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "geolocation": [
+    40.76906,
+    -111.887646
+  ],
+  "id": 4
+}
+]

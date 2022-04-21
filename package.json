@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kalerampy/travel-backend/issues"
   },
-  "homepage": "https://github.com/kalerampy/travel-backend#readme"
+  "homepage": "https://github.com/kalerampy/travel-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
